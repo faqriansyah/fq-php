@@ -1,0 +1,13 @@
+{
+    "name": "fq-php/framework",
+    "description": "Framework PHP sederhana bernama FQ-PHP",
+    "type": "project",
+    "license": "MIT",
+    "extra": {
+        "installer-name" : "fq-php"
+    },
+    "require": {
+        "composer/installer" : "~1.0",
+        "php": ">=7.2.0"
+    }
+}
